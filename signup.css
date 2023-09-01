@@ -1,0 +1,82 @@
+.body{
+    margin:0px;
+    padding:0px;
+}
+.soutbox{
+    width:800px;
+    height:490px;
+    border-radius:30px;
+    top:50%;
+    left:50%;
+    position:absolute;
+    transform:translate(-50%,-50%);
+    box-sizing:border-box;
+    color:rgb(167, 6, 105);
+background-color: white;
+    border:solid;
+    border-color:rgb(134, 133, 134);    
+}
+.scm{
+    float:right;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+.scm:hover{
+    color:rgb(134, 133, 134);
+cursor: pointer;
+}
+.sinbox {    
+    padding:10px;
+    }
+    .scp{
+        font-size:23px;
+        line-height:30px;
+        text-align: center;
+        color:black;
+    }
+  .sn
+  {
+    line-height:33px;
+    font-size:18px;
+    font-weight: bold;
+  }  
+    .ssn{ 
+    
+    width:40%;
+    margin-bottom:10px;
+border:none;
+height:25px;
+border-bottom: solid 2px black;
+font-size:13px;
+    }
+    .sright{
+        width:100%;
+        
+        margin-left:400px;
+        margin-top:-283px;
+    }
+    
+.flb{
+    width:50%;
+    padding:10px;
+    background-color:rgb(167, 6, 105) ;
+    color: white;
+    font-size: 20px;
+    border-radius: 30px;
+    border-color: white;
+    
+    
+}
+.sleft{
+    padding-left:25px;
+}
+#ss{
+    margin-bottom:0px;
+}
+.svc{margin-top:10px;
+text-align: center;}
+.flb:hover{
+    cursor:pointer;
+    background-color:rgb(134, 133, 134);
+    color:black;
+}
